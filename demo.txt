@@ -1,6 +1,6 @@
 The python class
 
-This lesson is on strings in python
+This lesson is on functions in python
 
 As taught by Cal Poly
 
