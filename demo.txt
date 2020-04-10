@@ -2,6 +2,8 @@ The python class
 
 This lesson is on strings in python
 
+There are more classes to follow
+
 As taught by Cal Poly
 
 Advanced Data visualizations in R
