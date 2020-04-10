@@ -2,3 +2,5 @@ The python class
 
 As taught by Cal Poly
 
+Advanced Data visualizations in R
+
