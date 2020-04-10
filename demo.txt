@@ -1,5 +1,7 @@
 The python class
 
+This lesson is on strings in python
+
 As taught by Cal Poly
 
 Advanced Data visualizations in R
