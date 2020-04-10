@@ -1,6 +1,6 @@
 The python class
 
-This lesson is on strings in python
+This lesson is on functions in python
 
 There are more classes to follow
 
