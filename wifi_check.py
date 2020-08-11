@@ -3,7 +3,7 @@ import paramiko
 import time
 
 HOST = raw_input("Office #: ")
-ip_address = "172." + "18." + HOST + "xx"
+ip_address = "172." + "18." + HOST + ".253"
 username = ("username")
 password = ("password")
 
@@ -16,10 +16,9 @@ print("Successful connection")
 
 remote_connection = ssh_client.invoke_shell()
 
-remote_connection.send("en\n")
-#remote_connection.send("wr me\n")
-#remote_connection.send("reload\n")
-#remote_connection.send("y\n")
+
+remote_connection.send("show dot11 ass\n")
+
 
 time.sleep(1)
 output = remote_connection.recv(65535)
